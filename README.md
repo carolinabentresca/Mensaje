@@ -1,4 +1,4 @@
-### Struts 1.3
+### JAVA - Struts 1.3
 - #### Proyecto Java Web /  Struts 1.3 (Con Base de datos)
 - #### Login - Registro de Usuario /  Muestra un Mensaje
 
